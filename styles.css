@@ -1,6 +1,6 @@
-p::before{
+div::before{
 	content:Before element;
 }
-p::after{
+div::after{
 	content:After element;
 }
